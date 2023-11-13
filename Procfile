@@ -1,0 +1,1 @@
+web: java -Dspring.profiles.active=pdn build/libs/nateshu-market-1.0.jar
